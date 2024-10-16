@@ -43,7 +43,7 @@ export const LINKS: Links = [
   },
   { 
     TEXT: "Blog", 
-    HREF: "/blog", 
+    HREF: "https://blog.arusty.dev", 
   },
   { 
     TEXT: "Projects", 
