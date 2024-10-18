@@ -1,3 +1,15 @@
+---
+title: "Cyber Defense Ranges"
+summary: "Lorem ipsum dolor sit amet"
+date: "Oct 18 2024"
+draft: false
+tags:
+- Terraform
+- Gitlab CI/CD
+- Ludus
+repoUrl: https://github.com/aRustyDev/
+---
+
 # Cyber Defense Ranges
 
 This refers to a few self-similar projects that I have spearheaded development on for my unit in the Air Force. The general template includes a meet with the strategic community 
