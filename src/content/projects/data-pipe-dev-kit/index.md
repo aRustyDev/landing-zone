@@ -1,3 +1,19 @@
+---
+title: "Data Pipe Dev Kit"
+summary: "Lorem ipsum dolor sit amet"
+date: "Oct 18 2024"
+draft: false
+tags:
+- GNU Make
+- Kubernetes
+- Orbstack
+- CockroachDB
+- PostGRESQL
+- Memphis
+- MageAI
+repoUrl: https://github.com/aRustyDev/minikube-dev-kit
+---
+
 # Data Pipe Dev Kit
 
 This is an offshoot of my work with the Datamesh Platform. I created this to enable other analysts to begin quickly setting up local 

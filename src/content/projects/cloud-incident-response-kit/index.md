@@ -1,3 +1,19 @@
+---
+title: "Cloud Incident Response Kit"
+summary: "Lorem ipsum dolor sit amet"
+date: "Oct 18 2024"
+draft: false
+tags:
+- ArgoCD
+- Kubernetes
+- Vault
+- AWS
+- Terraform
+- Gitlab CI/CD
+- BottlerocketOS
+repoUrl: https://github.com/aRustyDev/
+---
+
 # Cloud Incident Response Kit
 
 This project is a Cloud-native digital forensics pipeline and analysis kit. My involvement included architecting and implementing a 

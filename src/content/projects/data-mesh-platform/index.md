@@ -1,3 +1,20 @@
+---
+title: "Data Mesh Platform"
+summary: "Lorem ipsum dolor sit amet"
+date: "Oct 18 2024"
+draft: false
+tags:
+- Terraform
+- Gitlab CI/CD
+- Ludus
+- Data Engineering
+- CockroachDB
+- PostGRESQL
+- Memphis
+- MageAI
+repoUrl: https://github.com/aRustyDev/
+---
+
 # Data Mesh Platform
 
 This project is currently in the early stages, only barely into the alpha stages, but is set to become an organization-wide platform 
