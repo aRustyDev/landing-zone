@@ -5,7 +5,7 @@ date: "04/22/2026"
 
 ## General
 
-All software published by Adam Russell ("aRustyDev") is designed to be local-first. Your data stays on your devices unless you explicitly configure a connection to a remote server you control.
+All software published by Adam Smith ("aRustyDev") is designed to be local-first. Your data stays on your devices unless you explicitly configure a connection to a remote server you control.
 
 I do not collect, store, or transmit any personal data. I do not use analytics, telemetry, or tracking of any kind.
 
@@ -35,4 +35,4 @@ I do not collect, store, or transmit any personal data. I do not use analytics, 
 
 ## Contact
 
-For questions about this privacy policy: adam@arusty.dev
+For questions about this privacy policy: developer@gh.arusty.dev
